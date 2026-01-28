@@ -42,7 +42,7 @@
 ## 📂 Deliverables
 *   [📄 분석 결과 보고서 (Report)](./Naver_Shopping_Optimization_Report_v2.md)
 *   [📝 상품명 변경 가이드라인 (Guideline)](./NAMING_GUIDELINE.md)
-*   [💻 분석 코드 (Python Scripts)](./price_predictor.py)
+*   **[📓 전체 분석 코드 (Jupyter Notebook)](./Naver_Shopping_Pricing_Strategy.ipynb)**  👈 *Click here to view full code*
 
 ---
 *Created by Data Analyst Sebokoh*
